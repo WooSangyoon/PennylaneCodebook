@@ -13,3 +13,8 @@
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/IQC/Quantum_Circuits.ipynb">Quantum Circuits</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/IQC/Unitary_Matrices.ipynb">Unitary Matrices</a> </li>
 </ul>
+
+<h3>SQ: Single-Qubit Gates</h3>
+<ul>
+<li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/X_and_H.ipynb">X and H</a> </li>
+</ul>
