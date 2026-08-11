@@ -17,4 +17,5 @@
 <h3>SQ: Single-Qubit Gates</h3>
 <ul>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/X_and_H.ipynb">X and H</a> </li>
+<li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Its_Just_a_Phase.ipynb">It's Just a Phase</a> </li>
 </ul>
