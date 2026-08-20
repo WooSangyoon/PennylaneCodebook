@@ -20,4 +20,5 @@
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Its_Just_a_Phase.ipynb">It's Just a Phase</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/From_a_Different_Angle.ipynb">From a Different Angle</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Universal_Gate_Sets.ipynb">Universal Gate Sets</a> </li>
+<li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Prepare_Yourself.ipynb">Prepare Yourself</a> </li>
 </ul>
