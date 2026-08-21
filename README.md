@@ -21,4 +21,5 @@
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/From_a_Different_Angle.ipynb">From a Different Angle</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Universal_Gate_Sets.ipynb">Universal Gate Sets</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Prepare_Yourself.ipynb">Prepare Yourself</a> </li>
+<li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Measurements.ipynb">Measurements</a> </li>
 </ul>
