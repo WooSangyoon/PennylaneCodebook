@@ -22,4 +22,5 @@
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Universal_Gate_Sets.ipynb">Universal Gate Sets</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Prepare_Yourself.ipynb">Prepare Yourself</a> </li>
 <li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/Measurements.ipynb">Measurements</a> </li>
+<li> <a href="https://github.com/WooSangyoon/PennylaneCodebook/blob/main/SQ/What_Did_You_Expect.ipynb">What Did You Expect?</a> </li>
 </ul>
